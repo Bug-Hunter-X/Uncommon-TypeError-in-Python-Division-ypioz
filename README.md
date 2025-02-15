@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates an uncommon error related to type errors during division. The function is designed to handle ZeroDivisionError, but a TypeError can still occur when the input data types are unexpected. The solution is to add input type checking to the function.
